@@ -1,4 +1,5 @@
 {
+    "version": "1.0.0",
     "manifest": [
         {
             "filename": "arw_e.ani",
@@ -23805,6 +23806,6 @@
             "size": 3679128,
             "sha256": "f2edc576aec4d5612ee029ea1037e90d16ad31c5000faafdc1abe41a134beb88"
         }
-    ],
-    "version": "1.0.0"
+    ]
+    
 }
